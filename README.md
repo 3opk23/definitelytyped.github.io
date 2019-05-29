@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/edea27546094427ab99188190487ac7f)](https://app.codacy.com/app/3opk23/definitelytyped.github.io?utm_source=github.com&utm_medium=referral&utm_content=3opk23/definitelytyped.github.io&utm_campaign=Badge_Grade_Dashboard)
 # definitelytyped.github.io [![Build Status](https://travis-ci.org/DefinitelyTyped/definitelytyped.github.io.svg?branch=source)](https://travis-ci.org/DefinitelyTyped/definitelytyped.github.io)
 
 > Website content for [definitelytyped.org](http://definitelytyped.org).
